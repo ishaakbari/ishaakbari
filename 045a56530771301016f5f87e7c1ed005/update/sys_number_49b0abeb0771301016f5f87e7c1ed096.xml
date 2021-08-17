@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_680530_needit_needit">x_680530_needit_needit</category>
+        <maximum_digits>6</maximum_digits>
+        <number>2000</number>
+        <prefix>NI</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-12 12:42:17</sys_created_on>
+        <sys_id>49b0abeb0771301016f5f87e7c1ed096</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NI</sys_name>
+        <sys_package display_value="NeedIt" source="x_680530_needit">045a56530771301016f5f87e7c1ed005</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">045a56530771301016f5f87e7c1ed005</sys_scope>
+        <sys_update_name>sys_number_49b0abeb0771301016f5f87e7c1ed096</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-12 12:42:17</sys_updated_on>
+    </sys_number>
+</record_update>
